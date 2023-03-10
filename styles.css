@@ -8,7 +8,7 @@ body {
     max-width: 1000px;
     color: #1d3557;
     text-align: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(".\assets\bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("./assets/bg.jpg");
     background-size: 100%;
     background-position: 100%;
 }
